@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+# Responsive wep page 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20](https://user-images.githubusercontent.com/44892139/178676853-6b792310-831c-429e-bfb4-4005b2d9fcea.png)
+![Screenshot_21](https://user-images.githubusercontent.com/44892139/178676860-dd6c68e3-ab18-416c-838c-a33a5a51c60a.png)
+![Screenshot_22](https://user-images.githubusercontent.com/44892139/178676867-e309dc81-8cc6-4842-aea0-be08246f0cb5.png)
